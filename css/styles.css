@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: #b3ecff;
+  background-color: #b3d1ff;
   font-family: sans-serif;
 }
 
@@ -11,9 +11,6 @@ img {
   padding-right: 10px;
 }
 
-.bold {
-  font-weight: bold;
-}
 
 .italic {
   font-style: italic;
@@ -36,4 +33,15 @@ html {
 
 .break {
   margin-left: 600px;
+}
+
+body {
+  background-image: url("https://wallpaperstudio10.com/wallpaper-download-178799-640x960.jpg");
+  background-size: cover;
+
+}
+
+.bg-info
+{
+  background-color: #b3d1ff;
 }
