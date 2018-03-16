@@ -9,6 +9,7 @@ img {
   width: inherit;
   margin: 5px;
   padding-right: 10px;
+  border-radius: 50px;
 }
 
 
@@ -44,4 +45,5 @@ body {
 .bg-info
 {
   background-color: #b3d1ff;
+  background
 }
