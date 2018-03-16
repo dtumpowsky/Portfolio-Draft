@@ -31,5 +31,9 @@ html {
 
 .edu {
   padding-top: 3px;
-  background-color: #d9edf7;
+  font-weight: bold;
+}
+
+.break {
+  margin-left: 600px;
 }
