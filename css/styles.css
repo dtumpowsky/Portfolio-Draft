@@ -23,3 +23,8 @@ img {
   height: 250px;
   width: 400px;
 }
+
+html {
+  background-image:
+  background-repeat: no-repeat;
+}
