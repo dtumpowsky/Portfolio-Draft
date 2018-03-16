@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: #b3ecff;
+  font-family: sans-serif;
+}
+
+img {
+  float: left;
+  height: 210px;
+  width: inherit;
+  margin: 15px;
+}
