@@ -1,8 +1,11 @@
+
+
 # _Portfolio_
 
 #### _Profile and outline of experience ; March 16, 2018_
 
 #### By _**David Tumpowsky**_
+
 
 ## Description
 
@@ -12,6 +15,8 @@ _This portfolio briefly details who I am and my background. There are four secti
 
 * _visit the github profile for dtumpowsky_
 * _click on the item Portfolio_
+
+https://github.com/dtumpowsky
 
 
 ## Known Bugs
