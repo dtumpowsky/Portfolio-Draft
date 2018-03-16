@@ -7,5 +7,6 @@ img {
   float: left;
   height: 210px;
   width: inherit;
-  margin: 15px;
+  margin: 5px;
+  padding-right: 10px;
 }
