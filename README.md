@@ -1,6 +1,6 @@
 
 
-# _Portfolio_
+# _Portfolio-Draft_
 
 #### _Profile and outline of experience ; March 16, 2018_
 
@@ -9,7 +9,7 @@
 
 ## Description
 
-_This portfolio briefly details who I am and my background. There are four sections... About me, projects, formal background, and a few images of what I like to do.
+This portfolio briefly details who I am and my background. There are four sections... About me, projects, formal background, and a few images of what I like to do.
 
 ## Setup/Installation Requirements
 
